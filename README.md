@@ -2,7 +2,7 @@
 - 👀 I’m interested in Codes, Hardware
 - 🌱 I’m currently learning Computer Science (B.Tech)
 - 💞️ I’m looking to collaborate on Projects
-- 📫 You can reach me on [Linkedin] (https://www.linkedin.com/in/saranshchaudhary17/)
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/saranshchaudhary17/)
 
 
 <!---
