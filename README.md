@@ -52,25 +52,43 @@ Currently exploring:
 
 # 🚀 Featured Projects
 
-## 🖥️ Car OS Simulator
+## 🎨 Comic Site — Sarvanash
 
-A futuristic car operating system simulator designed with cinematic UI concepts and interactive experiences.
+🔗 https://github.com/SaranshChaudhary17/sarvanash
 
----
-
-## 🌍 T2T Indian Languages
-
-🔗 https://saranshchaudhary17.github.io/T2T-indian-Languages/
-
-A linguistic technology project focused on bridging Indian languages with modern digital interfaces.
+An immersive comic-reading platform focused on cinematic storytelling, modern UI design, and interactive web experiences.
 
 ---
 
-## 🌆 Dublin Website
+## 🛁 Ovid Bathware
 
-🔗 https://saranshchaudhary17.github.io/Dublin-Website/
+🔗 https://github.com/SaranshChaudhary17/Ovid-Bathware
 
-A modern visually crafted web experience inspired by the aesthetics and atmosphere of Dublin.
+A sleek modern business website concept designed with premium UI aesthetics and clean responsive layouts.
+
+---
+
+## 🧾 Invoice Generator
+
+🔗 https://github.com/SaranshChaudhary17/invoice
+
+A streamlined invoice generation system focused on productivity, clean design, and efficient workflow management.
+
+---
+
+## 🛡️ AI Powered Phishing Detection
+
+🔗 https://github.com/SaranshChaudhary17/Ai-Powered-Phishing-Detection
+
+An AI-driven cybersecurity project designed to identify phishing threats and improve digital security awareness.
+
+---
+
+## 💪 Gym Web
+
+🔗 https://github.com/SaranshChaudhary17/Gym-Web
+
+A visually engaging fitness website featuring modern layouts, responsive sections, and energetic UI presentation.
 
 ---
 
@@ -79,6 +97,14 @@ A modern visually crafted web experience inspired by the aesthetics and atmosphe
 🔗 https://github.com/SaranshChaudhary17/Electricity-Billing-System
 
 A JDBC-powered electricity billing management solution with backend integration and database handling.
+
+---
+
+## 🌍 T2T Indian Languages
+
+🔗 https://github.com/SaranshChaudhary17/T2T-indian-Languages
+
+A linguistic technology project focused on bridging Indian languages with modern digital interfaces.
 
 ---
 
