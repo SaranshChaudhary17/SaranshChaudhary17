@@ -100,23 +100,11 @@ A JDBC-powered electricity billing management solution with backend integration 
 
 ---
 
-## 🌍 T2T Indian Languages
+## 🌍 Anubhash Ai Translator for Indian Languages
 
-🔗 https://github.com/SaranshChaudhary17/T2T-indian-Languages
+🔗 https://anubhash.vercel.app/
 
 A linguistic technology project focused on bridging Indian languages with modern digital interfaces.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaranshChaudhary17&show_icons=true&theme=transparent&title_color=E8751A&icon_color=E8751A&text_color=F4F2EE&border_color=7FA1BE"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranshChaudhary17&layout=compact&theme=transparent&title_color=E8751A&text_color=F4F2EE&border_color=7FA1BE"/>
-
-</div>
 
 ---
 
@@ -134,7 +122,7 @@ A linguistic technology project focused on bridging Indian languages with modern
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8751A?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8751A?style=for-the-badge\&logo=firefox-browser\&logoColor=white)]([https://yourportfolio.com](https://saranshchaudhary.vercel.app/))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saranshchaudhary17/)
 
