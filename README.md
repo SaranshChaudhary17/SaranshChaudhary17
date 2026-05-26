@@ -122,7 +122,7 @@ A linguistic technology project focused on bridging Indian languages with modern
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8751A?style=for-the-badge\&logo=firefox-browser\&logoColor=white)]([https://yourportfolio.com](https://saranshchaudhary.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8751A?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://saranshchaudhary.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saranshchaudhary17/)
 
