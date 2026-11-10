@@ -1,16 +1,14 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=1000&color=E8751A&center=true&vCenter=true&width=900&lines=Saransh+Chaudhary;Creative+Developer+%7C+Video+Editor+%7C+UI+Designer;Building+Cinematic+Digital+Experiences;Crafting+Interactive+Futuristic+Interfaces" alt="Typing SVG" />
-
 <div align="center">
 
-### 🚀 Creative Developer • Cinematic UI Designer • Video Editor
+<img src="./assets/header.svg" alt="Saransh Chaudhary – Creative Developer, Video Editor, UI Designer" width="100%"/>
 
-Building immersive digital experiences, futuristic interfaces, and interactive systems that blend creativity with technology.
+**Immersive digital experiences, futuristic interfaces and interactive systems — where creativity meets code.**
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 🌌 About Me
 
 Hey there! I'm **Saransh Chaudhary** — a passionate developer and creative designer focused on building visually immersive and cinematic digital experiences.
 
@@ -33,111 +31,55 @@ Currently exploring:
 
 ---
 
-# ⚒️ Tech Arsenal
+## ⚒️ Tech Arsenal
 
 <div align="center">
-
-![Next JS](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-0D0D0D?style=for-the-badge\&logo=three.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge\&logo=tailwind-css\&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Unity](https://img.shields.io/badge/Unity-0D0D0D?style=for-the-badge\&logo=unity\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge\&logo=git\&logoColor=F05032)
-
+<img src="assets/stack.svg" alt="Next.js, React, Three.js, Tailwind, JavaScript, Java, Unity, Git" width="90%"/>
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎨 Comic Site — Sarvanash
-
-🔗 https://github.com/SaranshChaudhary17/sarvanash
-
-An immersive comic-reading platform focused on cinematic storytelling, modern UI design, and interactive web experiences.
-
----
-
-## 🛁 Ovid Bathware
-
-🔗 https://github.com/SaranshChaudhary17/Ovid-Bathware
-
-A sleek modern business website concept designed with premium UI aesthetics and clean responsive layouts.
-
----
-
-## 🧾 Invoice Generator
-
-🔗 https://github.com/SaranshChaudhary17/invoice
-
-A streamlined invoice generation system focused on productivity, clean design, and efficient workflow management.
-
----
-
-## 🛡️ AI Powered Phishing Detection
-
-🔗 https://github.com/SaranshChaudhary17/Ai-Powered-Phishing-Detection
-
-An AI-driven cybersecurity project designed to identify phishing threats and improve digital security awareness.
-
----
-
-## 💪 Gym Web
-
-🔗 https://github.com/SaranshChaudhary17/Gym-Web
-
-A visually engaging fitness website featuring modern layouts, responsive sections, and energetic UI presentation.
-
----
-
-## ⚡ Electricity Billing System
-
-🔗 https://github.com/SaranshChaudhary17/Electricity-Billing-System
-
-A JDBC-powered electricity billing management solution with backend integration and database handling.
-
----
-
-## 🌍 Anubhash Ai Translator for Indian Languages
-
-🔗 https://anubhash.vercel.app/
-
-A linguistic technology project focused on bridging Indian languages with modern digital interfaces.
-
----
-
-# 🔥 Contribution Streak
+## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaranshChaudhary17&theme=dark&ring=E8751A&fire=E8751A&currStreakLabel=E8751A&sideLabels=F4F2EE&dates=A9C4DA&sideNums=F4F2EE&currStreakNum=F4F2EE&border=7FA1BE"/>
-
+<table>
+<tr>
+<td><a href="https://github.com/SaranshChaudhary17/sarvanash"><img src="assets/p1.svg" alt="Sarvanash – comic site" width="440"/></a></td>
+<td><a href="https://github.com/SaranshChaudhary17/Ovid-Bathware"><img src="assets/p2.svg" alt="Ovid Bathware" width="440"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SaranshChaudhary17/invoice"><img src="assets/p3.svg" alt="Invoice Generator" width="440"/></a></td>
+<td><a href="https://github.com/SaranshChaudhary17/Ai-Powered-Phishing-Detection"><img src="assets/p4.svg" alt="AI Phishing Detection" width="440"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SaranshChaudhary17/Gym-Web"><img src="assets/p5.svg" alt="Gym Web" width="440"/></a></td>
+<td><a href="https://github.com/SaranshChaudhary17/Electricity-Billing-System"><img src="assets/p6.svg" alt="Electricity Billing System" width="440"/></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://anubhash.vercel.app/"><img src="assets/p7.svg" alt="Anubhash – AI translator for Indian languages" width="440"/></a></td>
+</tr>
+</table>
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🔥 Contribution Streak
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8751A?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://saranshchaudhary.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saranshchaudhary17/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/saranshchaudhary17)
-
-[![Email](https://img.shields.io/badge/Email-E8751A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saranshchaudhary17@gmail.com)
-
+<img src="https://streak-stats.demolab.com/?user=SaranshChaudhary17&theme=dark&ring=E8751A&fire=E8751A&currStreakLabel=E8751A&sideLabels=F4F2EE&dates=A9C4DA&sideNums=F4F2EE&currStreakNum=F4F2EE&border=7FA1BE" alt="GitHub streak"/>
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
-
-### ⚡ "Designing experiences beyond screens."
-
-<img src="https://komarev.com/ghpvc/?username=SaranshChaudhary17&label=Profile%20Views&color=E8751A&style=flat" />
-
+<a href="https://saranshchaudhary.vercel.app/"><img src="assets/b_portfolio.svg" alt="Portfolio" height="80"/></a>
+<a href="https://www.linkedin.com/in/saranshchaudhary17/"><img src="assets/b_linkedin.svg" alt="LinkedIn" height="80"/></a>
+<a href="https://www.instagram.com/saranshchaudhary17"><img src="assets/b_instagram.svg" alt="Instagram" height="80"/></a>
+<a href="mailto:saranshchaudhary17@gmail.com"><img src="assets/b_email.svg" alt="Email" height="80"/></a>
 </div>
+
+<img src="assets/footer.svg" alt="Designing experiences beyond screens" width="100%"/>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=SaranshChaudhary17&label=Profile%20Views&color=E8751A&style=flat" alt="Profile views"/></div>
